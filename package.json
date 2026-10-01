@@ -6,10 +6,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test": "vitest run"
+    "test": "vitest run",
+    "eval": "npx tsx eval/run.ts",
+    "judge": "npx tsx eval/judge.ts",
+    "compare": "npx tsx eval/compare.ts"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.1.0",
+    "langfuse": "^3.39.2",
     "next": "^15.5.25",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
@@ -21,6 +25,7 @@
     "@types/react-dom": "^19.3.0",
     "postcss": "^8.5.28",
     "tailwindcss": "^4.3.3",
+    "tsx": "^4.0.0",
     "typescript": "^5.9.3",
     "vitest": "^5.0.0"
   }

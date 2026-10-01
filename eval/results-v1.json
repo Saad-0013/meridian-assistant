@@ -1,0 +1,242 @@
+[
+  {
+    "id": "q01",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "Report the lost card in the Meridian app under Cards > Freeze card, or call 0800 555 0199, which is open 24 hours a day.",
+    "citations": []
+  },
+  {
+    "id": "q02",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "The daily transfer limit for online and app payments is 25,000 pounds.",
+    "citations": []
+  },
+  {
+    "id": "q03",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "Branches are closed on Sundays.",
+    "citations": []
+  },
+  {
+    "id": "q04",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "Reset an app password at the sign-in screen using \"Forgotten password\". A one-time code is sent by SMS to the registered mobile number.",
+    "citations": []
+  },
+  {
+    "id": "q05",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "The unarranged overdraft fee is 6 pounds per day, capped at 60 pounds per calendar month.",
+    "citations": []
+  },
+  {
+    "id": "q06",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "Meridian Bank will never ask for a full password, a PIN, or a one-time code by phone, email or text message.",
+    "citations": []
+  },
+  {
+    "id": "q07",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q08",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q09",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q10",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q11",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q12",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q13",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q14",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q15",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q16",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q17",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q18",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q19",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q20",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "The provided information does not include details about entering a PIN incorrectly three times.",
+    "citations": []
+  },
+  {
+    "id": "q21",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "A replacement debit card arrives in 3 to 5 working days.",
+    "citations": []
+  },
+  {
+    "id": "q22",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q23",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q24",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q25",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q26",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q27",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q28",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "",
+    "citations": []
+  },
+  {
+    "id": "q29",
+    "routingCorrect": false,
+    "answerCorrect": true,
+    "retrievalHit": false,
+    "reply": "I cannot answer that",
+    "citations": []
+  },
+  {
+    "id": "q30",
+    "routingCorrect": false,
+    "answerCorrect": false,
+    "retrievalHit": false,
+    "reply": "The daily transfer limit for online and app payments is 25,000 pounds. The limit can be raised temporarily by calling the phone line. It cannot be raised in the app or by an assistant. Faster Payments to other UK banks usually arrive within 2 hours. International transfers take 2 to 4 working days and cost 15 pounds.",
+    "citations": []
+  }
+]
